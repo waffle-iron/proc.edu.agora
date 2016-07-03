@@ -1,1 +1,1 @@
-# proc.edu.agora
+# proc.edu.agora [![Codacy Badge](https://api.codacy.com/project/badge/Grade/425270c183e04adebc7da5c4367baed4)](https://www.codacy.com/app/lagora-franck/proc-edu-agora?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lagora/proc.edu.agora&amp;utm_campaign=Badge_Grade) [![codebeat badge](https://codebeat.co/badges/066086f3-0ddd-48a0-8837-4d0030400d14)](https://codebeat.co/projects/github-com-lagora-proc-edu-agora)
